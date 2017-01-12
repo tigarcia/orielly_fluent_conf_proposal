@@ -12,7 +12,22 @@ __Secondary Topics__: Backend Tools, Mobile, RESTful web
 
 __Session Type__: Either 40 minutes or 3 hour tutorial
 
-__Abstract__: Coming Soon!
+__Abstract__:
+
+_Full Stack Swift: Using Swift on the Backend_ will get you up and running as a server side swift developer in no time. We will dive deeply into server side development and come away with a working API that is written in Swift using the IBM Kitura framework.
+
+The talk will include:
+
+* Background on Swift as a server side language:
+	* Why choose Swift on the server side?
+	* Why use IBM Kitura?
+* An overview of the HTTP request/response cycle
+* Getting your environment setup for Kitura development
+* Request routing in Kitura
+* Connecting your server to a database for persistence
+* How to build and test a swift API for your mobile app
+* Authentication with JWTs
+
 
 __Presentation Audience__: Software engineers wanting to learn back end development with Swift
 
