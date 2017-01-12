@@ -51,4 +51,10 @@ __Hardware and/or installation requirements__: Needs: a mac laptop, a Github acc
 
 __Video__:
 
-Coming soon!
+Will be posted the evening of _1/12/17_
+
+__Encouraged Me To Submit__: Lorien Smyer
+
+__Additional Notes__: I work full time as a web development teacher at Rithm School (I cofounded the company along with 2 others), I have thousands of hours of practice teaching and speaking in front of an audience.  Making sure the student has a good experience is my top priority.  I will also be doing 4 workshops at forward js:
+
+https://forwardjs.com/  (I'm the square to the left of Kyle Simpson.  If you're reading this, hello Kyle!).
