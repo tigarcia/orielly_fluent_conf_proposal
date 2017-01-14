@@ -51,7 +51,7 @@ __Hardware and/or installation requirements__: Needs: a mac laptop, a Github acc
 
 __Video__:
 
-Will be posted the evening of _1/12/17_
+[Beginners Python Class For Pyladies](https://www.youtube.com/watch?v=eEgRB2dnh_U)
 
 __Encouraged Me To Submit__: Lorien Smyer
 
